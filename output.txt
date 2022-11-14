@@ -1,0 +1,614 @@
+
+
+#######
+GRUPO 1 
+  --- 
+INICIO
+#######
+
+
+PESSOA 0 -- custo imovel: 698 mil - taxas: 35 mil.
+	    tem 53% em especie e ganhou 20% de subsidio. Possui 67% das taxas.
+	    precisa de 27% em especie e 33% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 3 -- custo imovel: 160 mil - taxas: 8 mil.
+	    tem 63% em especie e ganhou 5% de subsidio. Possui 95% das taxas.
+	    precisa de 32% em especie e 5% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 5 -- custo imovel: 986 mil - taxas: 50 mil.
+	    tem 44% em especie e ganhou 20% de subsidio. Possui 92% das taxas.
+	    precisa de 36% em especie e 8% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 1 -- custo imovel: 192 mil - taxas: 10 mil.
+	    tem 56% em especie e ganhou 5% de subsidio. Possui 64% das taxas.
+	    precisa de 39% em especie e 36% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 8 -- custo imovel: 448 mil - taxas: 23 mil.
+	    tem 57% em especie e ganhou 20% de subsidio. Possui 80% das taxas.
+	    precisa de 23% em especie e 20% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 2 -- custo imovel: 439 mil - taxas: 22 mil.
+	    tem 46% em especie e ganhou 10% de subsidio. Possui 72% das taxas.
+	    precisa de 44% em especie e 28% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 6 -- custo imovel: 931 mil - taxas: 47 mil.
+	    tem 44% em especie e ganhou 5% de subsidio. Possui 52% das taxas.
+	    precisa de 51% em especie e 48% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 7 -- custo imovel: 801 mil - taxas: 41 mil.
+	    tem 45% em especie e ganhou 5% de subsidio. Possui 97% das taxas.
+	    precisa de 50% em especie e 3% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 4 -- custo imovel: 445 mil - taxas: 23 mil.
+	    tem 61% em especie e ganhou 20% de subsidio. Possui 74% das taxas.
+	    precisa de 19% em especie e 26% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 9 -- custo imovel: 335 mil - taxas: 17 mil.
+	    tem 46% em especie e ganhou 10% de subsidio. Possui 55% das taxas.
+	    precisa de 44% em especie e 45% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 0 -- credito aprovado. O banco emprestou:
+	    188 mil em especie;
+	    12 mil das taxas;
+	    140 mil de subsidio.
+O banco possui agora: 812 mil em especie -- 88 mil em taxas -- 260 mil em subsidio.
+
+PESSOA 3 -- credito aprovado. O banco emprestou:
+	    51 mil em especie;
+	    0 mil das taxas;
+	    8 mil de subsidio.
+O banco possui agora: 760 mil em especie -- 88 mil em taxas -- 252 mil em subsidio.
+
+PESSOA 1 -- credito aprovado. O banco emprestou:
+	    75 mil em especie;
+	    4 mil das taxas;
+	    10 mil de subsidio.
+O banco possui agora: 685 mil em especie -- 84 mil em taxas -- 243 mil em subsidio.
+
+PESSOA 5 -- credito aprovado. O banco emprestou:
+	    355 mil em especie;
+	    4 mil das taxas;
+	    197 mil de subsidio.
+O banco possui agora: 330 mil em especie -- 80 mil em taxas -- 46 mil em subsidio.
+
+PESSOA 8 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 2 -- credito aprovado. O banco emprestou:
+	    193 mil em especie;
+	    6 mil das taxas;
+	    44 mil de subsidio.
+O banco possui agora: 137 mil em especie -- 74 mil em taxas -- 2 mil em subsidio.
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 7 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 4 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 9 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 8 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 7 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 4 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 9 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 8 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 7 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 4 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 9 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 0 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 279 mil em especie -- 81 mil em taxas -- 71 mil em subsidio.
+
+PESSOA 1 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 335 mil em especie -- 83 mil em taxas -- 76 mil em subsidio.
+
+PESSOA 3 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 373 mil em especie -- 84 mil em taxas -- 80 mil em subsidio.
+
+PESSOA 8 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 2 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 518 mil em especie -- 87 mil em taxas -- 102 mil em subsidio.
+
+PESSOA 5 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 784 mil em especie -- 90 mil em taxas -- 201 mil em subsidio.
+
+PESSOA 7 -- credito aprovado. O banco emprestou:
+	    400 mil em especie;
+	    1 mil das taxas;
+	    40 mil de subsidio.
+O banco possui agora: 384 mil em especie -- 88 mil em taxas -- 161 mil em subsidio.
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 4 -- credito aprovado. O banco emprestou:
+	    85 mil em especie;
+	    6 mil das taxas;
+	    89 mil de subsidio.
+O banco possui agora: 299 mil em especie -- 83 mil em taxas -- 72 mil em subsidio.
+
+PESSOA 9 -- credito aprovado. O banco emprestou:
+	    147 mil em especie;
+	    8 mil das taxas;
+	    34 mil de subsidio.
+O banco possui agora: 152 mil em especie -- 75 mil em taxas -- 38 mil em subsidio.
+
+PESSOA 0 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 293 mil em especie -- 82 mil em taxas -- 108 mil em subsidio.
+
+PESSOA 8 -- credito aprovado. O banco emprestou:
+	    103 mil em especie;
+	    5 mil das taxas;
+	    90 mil de subsidio.
+O banco possui agora: 190 mil em especie -- 77 mil em taxas -- 19 mil em subsidio.
+
+PESSOA 1 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 246 mil em especie -- 79 mil em taxas -- 23 mil em subsidio.
+
+PESSOA 5 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 513 mil em especie -- 82 mil em taxas -- 122 mil em subsidio.
+
+PESSOA 3 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 551 mil em especie -- 82 mil em taxas -- 126 mil em subsidio.
+
+PESSOA 2 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 696 mil em especie -- 86 mil em taxas -- 148 mil em subsidio.
+
+PESSOA 6 -- credito aprovado. O banco emprestou:
+	    475 mil em especie;
+	    23 mil das taxas;
+	    47 mil de subsidio.
+O banco possui agora: 221 mil em especie -- 63 mil em taxas -- 101 mil em subsidio.
+
+PESSOA 7 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 521 mil em especie -- 64 mil em taxas -- 121 mil em subsidio.
+
+PESSOA 4 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 585 mil em especie -- 67 mil em taxas -- 166 mil em subsidio.
+
+PESSOA 9 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 695 mil em especie -- 72 mil em taxas -- 183 mil em subsidio.
+
+PESSOA 8 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 773 mil em especie -- 75 mil em taxas -- 227 mil em subsidio.
+
+PESSOA 7 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1073 mil em especie -- 76 mil em taxas -- 247 mil em subsidio.
+
+PESSOA 4 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1136 mil em especie -- 79 mil em taxas -- 292 mil em subsidio.
+
+PESSOA 9 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1247 mil em especie -- 84 mil em taxas -- 309 mil em subsidio.
+
+PESSOA 6 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1603 mil em especie -- 97 mil em taxas -- 332 mil em subsidio.
+
+PESSOA 8 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1680 mil em especie -- 100 mil em taxas -- 377 mil em subsidio.
+
+PESSOA 6 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 2036 mil em especie -- 114 mil em taxas -- 400 mil em subsidio.
+
+
+#######
+GRUPO 1
+  --- 
+  FIM 
+#######
+	O banco possuia: 1000 mil em especie, 100 em taxas e 400 em subsidio.
+	Agora tem: 2036 mil em especie, 114 em taxas e 400 em subsidio.
+	Com acrescimo de 50% de subsidio, o banco tem agora 600 mil de subsidio.
+
+
+#######
+GRUPO 2 
+  --- 
+INICIO
+#######
+
+
+PESSOA 0 -- custo imovel: 742 mil - taxas: 38 mil.
+	    tem 68% em especie e ganhou 5% de subsidio. Possui 89% das taxas.
+	    precisa de 27% em especie e 11% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 1 -- custo imovel: 563 mil - taxas: 29 mil.
+	    tem 44% em especie e ganhou 10% de subsidio. Possui 67% das taxas.
+	    precisa de 46% em especie e 33% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 2 -- custo imovel: 897 mil - taxas: 45 mil.
+	    tem 63% em especie e ganhou 10% de subsidio. Possui 88% das taxas.
+	    precisa de 27% em especie e 12% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 5 -- custo imovel: 660 mil - taxas: 33 mil.
+	    tem 61% em especie e ganhou 5% de subsidio. Possui 69% das taxas.
+	    precisa de 34% em especie e 31% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 4 -- custo imovel: 416 mil - taxas: 21 mil.
+	    tem 63% em especie e ganhou 10% de subsidio. Possui 92% das taxas.
+	    precisa de 27% em especie e 8% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 9 -- custo imovel: 697 mil - taxas: 35 mil.
+	    tem 64% em especie e ganhou 5% de subsidio. Possui 60% das taxas.
+	    precisa de 31% em especie e 40% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 7 -- custo imovel: 646 mil - taxas: 33 mil.
+	    tem 69% em especie e ganhou 20% de subsidio. Possui 71% das taxas.
+	    precisa de 11% em especie e 29% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 6 -- custo imovel: 910 mil - taxas: 46 mil.
+	    tem 40% em especie e ganhou 10% de subsidio. Possui 51% das taxas.
+	    precisa de 50% em especie e 49% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 8 -- custo imovel: 839 mil - taxas: 42 mil.
+	    tem 40% em especie e ganhou 20% de subsidio. Possui 95% das taxas.
+	    precisa de 40% em especie e 5% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 3 -- custo imovel: 749 mil - taxas: 38 mil.
+	    tem 52% em especie e ganhou 10% de subsidio. Possui 69% das taxas.
+	    precisa de 38% em especie e 31% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 0 -- credito aprovado. O banco emprestou:
+	    200 mil em especie;
+	    4 mil das taxas;
+	    37 mil de subsidio.
+O banco possui agora: 1836 mil em especie -- 109 mil em taxas -- 563 mil em subsidio.
+
+PESSOA 5 -- credito aprovado. O banco emprestou:
+	    224 mil em especie;
+	    10 mil das taxas;
+	    33 mil de subsidio.
+O banco possui agora: 1612 mil em especie -- 99 mil em taxas -- 530 mil em subsidio.
+
+PESSOA 1 -- credito aprovado. O banco emprestou:
+	    259 mil em especie;
+	    10 mil das taxas;
+	    56 mil de subsidio.
+O banco possui agora: 1353 mil em especie -- 90 mil em taxas -- 474 mil em subsidio.
+
+PESSOA 2 -- credito aprovado. O banco emprestou:
+	    242 mil em especie;
+	    5 mil das taxas;
+	    90 mil de subsidio.
+O banco possui agora: 1111 mil em especie -- 84 mil em taxas -- 384 mil em subsidio.
+
+PESSOA 4 -- credito aprovado. O banco emprestou:
+	    112 mil em especie;
+	    2 mil das taxas;
+	    42 mil de subsidio.
+O banco possui agora: 998 mil em especie -- 82 mil em taxas -- 342 mil em subsidio.
+
+PESSOA 7 -- credito aprovado. O banco emprestou:
+	    71 mil em especie;
+	    10 mil das taxas;
+	    129 mil de subsidio.
+O banco possui agora: 927 mil em especie -- 73 mil em taxas -- 213 mil em subsidio.
+
+PESSOA 8 -- credito aprovado. O banco emprestou:
+	    336 mil em especie;
+	    2 mil das taxas;
+	    168 mil de subsidio.
+O banco possui agora: 592 mil em especie -- 71 mil em taxas -- 45 mil em subsidio.
+
+PESSOA 3 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 9 -- credito aprovado. O banco emprestou:
+	    216 mil em especie;
+	    14 mil das taxas;
+	    35 mil de subsidio.
+O banco possui agora: 376 mil em especie -- 57 mil em taxas -- 10 mil em subsidio.
+
+PESSOA 3 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 3 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 6 -- Banco sem recursos suficientes (estado inseguro, credito negado).
+
+PESSOA 0 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 526 mil em especie -- 59 mil em taxas -- 29 mil em subsidio.
+
+PESSOA 5 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 694 mil em especie -- 65 mil em taxas -- 46 mil em subsidio.
+
+PESSOA 1 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 888 mil em especie -- 71 mil em taxas -- 74 mil em subsidio.
+
+PESSOA 4 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 973 mil em especie -- 72 mil em taxas -- 94 mil em subsidio.
+
+PESSOA 2 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1154 mil em especie -- 75 mil em taxas -- 139 mil em subsidio.
+
+PESSOA 7 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1207 mil em especie -- 81 mil em taxas -- 204 mil em subsidio.
+
+PESSOA 8 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1459 mil em especie -- 82 mil em taxas -- 288 mil em subsidio.
+
+PESSOA 3 -- credito aprovado. O banco emprestou:
+	    285 mil em especie;
+	    12 mil das taxas;
+	    75 mil de subsidio.
+O banco possui agora: 1175 mil em especie -- 71 mil em taxas -- 213 mil em subsidio.
+
+PESSOA 6 -- credito aprovado. O banco emprestou:
+	    455 mil em especie;
+	    23 mil das taxas;
+	    91 mil de subsidio.
+O banco possui agora: 720 mil em especie -- 48 mil em taxas -- 122 mil em subsidio.
+
+PESSOA 9 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 882 mil em especie -- 57 mil em taxas -- 139 mil em subsidio.
+
+PESSOA 0 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1032 mil em especie -- 59 mil em taxas -- 158 mil em subsidio.
+
+PESSOA 5 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1200 mil em especie -- 65 mil em taxas -- 174 mil em subsidio.
+
+PESSOA 1 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1394 mil em especie -- 71 mil em taxas -- 203 mil em subsidio.
+
+PESSOA 4 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1479 mil em especie -- 72 mil em taxas -- 223 mil em subsidio.
+
+PESSOA 2 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1660 mil em especie -- 75 mil em taxas -- 268 mil em subsidio.
+
+PESSOA 7 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1714 mil em especie -- 81 mil em taxas -- 333 mil em subsidio.
+
+PESSOA 8 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 1965 mil em especie -- 82 mil em taxas -- 417 mil em subsidio.
+
+PESSOA 9 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 2127 mil em especie -- 91 mil em taxas -- 434 mil em subsidio.
+
+PESSOA 3 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2341 mil em especie -- 98 mil em taxas -- 472 mil em subsidio.
+
+PESSOA 6 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2682 mil em especie -- 111 mil em taxas -- 517 mil em subsidio.
+
+PESSOA 3 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 2896 mil em especie -- 118 mil em taxas -- 555 mil em subsidio.
+
+PESSOA 6 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 3237 mil em especie -- 132 mil em taxas -- 600 mil em subsidio.
+
+
+#######
+GRUPO 2
+  --- 
+  FIM 
+#######
+	O banco possuia: 2036 mil em especie, 114 em taxas e 600 em subsidio.
+	Agora tem: 3237 mil em especie, 132 em taxas e 600 em subsidio.
+	Com acrescimo de 50% de subsidio, o banco tem agora 900 mil de subsidio.
+
+
+#######
+GRUPO 3 
+  --- 
+INICIO
+#######
+
+
+PESSOA 0 -- custo imovel: 507 mil - taxas: 26 mil.
+	    tem 60% em especie e ganhou 10% de subsidio. Possui 80% das taxas.
+	    precisa de 30% em especie e 20% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 1 -- custo imovel: 432 mil - taxas: 22 mil.
+	    tem 51% em especie e ganhou 20% de subsidio. Possui 87% das taxas.
+	    precisa de 29% em especie e 13% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 4 -- custo imovel: 640 mil - taxas: 32 mil.
+	    tem 41% em especie e ganhou 20% de subsidio. Possui 83% das taxas.
+	    precisa de 39% em especie e 17% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 5 -- custo imovel: 310 mil - taxas: 16 mil.
+	    tem 44% em especie e ganhou 10% de subsidio. Possui 80% das taxas.
+	    precisa de 46% em especie e 20% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 7 -- custo imovel: 292 mil - taxas: 15 mil.
+	    tem 53% em especie e ganhou 20% de subsidio. Possui 62% das taxas.
+	    precisa de 27% em especie e 38% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 9 -- custo imovel: 998 mil - taxas: 50 mil.
+	    tem 48% em especie e ganhou 10% de subsidio. Possui 51% das taxas.
+	    precisa de 42% em especie e 49% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 3 -- custo imovel: 725 mil - taxas: 37 mil.
+	    tem 40% em especie e ganhou 10% de subsidio. Possui 98% das taxas.
+	    precisa de 50% em especie e 2% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 2 -- custo imovel: 276 mil - taxas: 14 mil.
+	    tem 51% em especie e ganhou 20% de subsidio. Possui 71% das taxas.
+	    precisa de 29% em especie e 29% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 8 -- custo imovel: 613 mil - taxas: 31 mil.
+	    tem 65% em especie e ganhou 10% de subsidio. Possui 58% das taxas.
+	    precisa de 25% em especie e 42% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 6 -- custo imovel: 217 mil - taxas: 11 mil.
+	    tem 57% em especie e ganhou 10% de subsidio. Possui 51% das taxas.
+	    precisa de 33% em especie e 49% das taxas.
+	Esperando aprovacao de credito.
+
+PESSOA 0 -- credito aprovado. O banco emprestou:
+	    152 mil em especie;
+	    5 mil das taxas;
+	    51 mil de subsidio.
+O banco possui agora: 3085 mil em especie -- 127 mil em taxas -- 849 mil em subsidio.
+
+PESSOA 4 -- credito aprovado. O banco emprestou:
+	    250 mil em especie;
+	    5 mil das taxas;
+	    128 mil de subsidio.
+O banco possui agora: 2835 mil em especie -- 121 mil em taxas -- 721 mil em subsidio.
+
+PESSOA 5 -- credito aprovado. O banco emprestou:
+	    143 mil em especie;
+	    3 mil das taxas;
+	    31 mil de subsidio.
+O banco possui agora: 2692 mil em especie -- 118 mil em taxas -- 690 mil em subsidio.
+
+PESSOA 3 -- credito aprovado. O banco emprestou:
+	    362 mil em especie;
+	    1 mil das taxas;
+	    72 mil de subsidio.
+O banco possui agora: 2330 mil em especie -- 117 mil em taxas -- 618 mil em subsidio.
+
+PESSOA 2 -- credito aprovado. O banco emprestou:
+	    80 mil em especie;
+	    4 mil das taxas;
+	    55 mil de subsidio.
+O banco possui agora: 2250 mil em especie -- 113 mil em taxas -- 563 mil em subsidio.
+
+PESSOA 9 -- credito aprovado. O banco emprestou:
+	    419 mil em especie;
+	    24 mil das taxas;
+	    100 mil de subsidio.
+O banco possui agora: 1831 mil em especie -- 89 mil em taxas -- 463 mil em subsidio.
+
+PESSOA 7 -- credito aprovado. O banco emprestou:
+	    79 mil em especie;
+	    6 mil das taxas;
+	    58 mil de subsidio.
+O banco possui agora: 1752 mil em especie -- 83 mil em taxas -- 404 mil em subsidio.
+
+PESSOA 8 -- credito aprovado. O banco emprestou:
+	    153 mil em especie;
+	    13 mil das taxas;
+	    61 mil de subsidio.
+O banco possui agora: 1599 mil em especie -- 70 mil em taxas -- 343 mil em subsidio.
+
+PESSOA 1 -- credito aprovado. O banco emprestou:
+	    125 mil em especie;
+	    3 mil das taxas;
+	    86 mil de subsidio.
+O banco possui agora: 1473 mil em especie -- 67 mil em taxas -- 257 mil em subsidio.
+
+PESSOA 6 -- credito aprovado. O banco emprestou:
+	    72 mil em especie;
+	    5 mil das taxas;
+	    22 mil de subsidio.
+O banco possui agora: 1402 mil em especie -- 62 mil em taxas -- 235 mil em subsidio.
+
+PESSOA 0 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1516 mil em especie -- 65 mil em taxas -- 260 mil em subsidio.
+
+PESSOA 4 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1703 mil em especie -- 68 mil em taxas -- 324 mil em subsidio.
+
+PESSOA 5 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 1810 mil em especie -- 70 mil em taxas -- 340 mil em subsidio.
+
+PESSOA 3 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2082 mil em especie -- 70 mil em taxas -- 376 mil em subsidio.
+
+PESSOA 2 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2142 mil em especie -- 73 mil em taxas -- 404 mil em subsidio.
+
+PESSOA 9 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2456 mil em especie -- 88 mil em taxas -- 454 mil em subsidio.
+
+PESSOA 7 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2515 mil em especie -- 91 mil em taxas -- 483 mil em subsidio.
+
+PESSOA 8 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2630 mil em especie -- 99 mil em taxas -- 513 mil em subsidio.
+
+PESSOA 1 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2724 mil em especie -- 100 mil em taxas -- 557 mil em subsidio.
+
+PESSOA 6 -- devolveu dinheiro durante um ano (1/2).
+O banco possui agora: 2778 mil em especie -- 104 mil em taxas -- 568 mil em subsidio.
+
+PESSOA 0 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 2892 mil em especie -- 107 mil em taxas -- 593 mil em subsidio.
+
+PESSOA 5 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 2999 mil em especie -- 109 mil em taxas -- 608 mil em subsidio.
+
+PESSOA 2 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 3059 mil em especie -- 111 mil em taxas -- 636 mil em subsidio.
+
+PESSOA 4 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 3246 mil em especie -- 114 mil em taxas -- 700 mil em subsidio.
+
+PESSOA 3 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 3518 mil em especie -- 115 mil em taxas -- 736 mil em subsidio.
+
+PESSOA 9 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 3833 mil em especie -- 130 mil em taxas -- 786 mil em subsidio.
+
+PESSOA 7 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 3892 mil em especie -- 133 mil em taxas -- 815 mil em subsidio.
+
+PESSOA 8 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 4007 mil em especie -- 141 mil em taxas -- 846 mil em subsidio.
+
+PESSOA 6 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 4060 mil em especie -- 144 mil em taxas -- 857 mil em subsidio.
+
+PESSOA 1 -- devolveu dinheiro durante um ano (2/2).
+O banco possui agora: 4154 mil em especie -- 146 mil em taxas -- 900 mil em subsidio.
+
+
+#######
+GRUPO 3
+  --- 
+  FIM 
+#######
+	O banco possuia: 3237 mil em especie, 132 em taxas e 900 em subsidio.
+	Agora tem: 4154 mil em especie, 146 em taxas e 900 em subsidio.
+	Com acrescimo de 50% de subsidio, o banco tem agora 1350 mil de subsidio.
+
+
+Foram atendidos 3 grupos de 10 pessoas no banco.
+Encerrando o expediente.
